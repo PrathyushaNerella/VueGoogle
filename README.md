@@ -1,2 +1,0 @@
-# VueGoogle
-Created with CodeSandbox
